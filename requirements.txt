@@ -1,0 +1,8 @@
+# Podstawowe biblioteki projektu.
+# Dopisz biblioteki, których używasz, i podaj ich dokładne wersje.
+# Wersje w swoim środowisku sprawdzisz poleceniem: pip freeze
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter

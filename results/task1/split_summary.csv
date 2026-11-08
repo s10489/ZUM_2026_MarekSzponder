@@ -1,0 +1,5 @@
+split,produkty,rodziny,% produktów
+train,29367.0,12464.0,70.5
+validation,6098.0,2504.0,14.6
+test,6171.0,2489.0,14.8
+razem,41636.0,17457.0,100.0

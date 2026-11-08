@@ -1,0 +1,67 @@
+,produkty,produkty,produkty,rodziny,rodziny,rodziny
+split,train,validation,test,train,validation,test
+articleType,,,,,,
+Tshirts,4904,1047,918,2407,457,470
+Casual Shoes,1918,384,542,972,181,205
+Shirts,1890,690,349,517,113,91
+Watches,1640,520,379,898,207,195
+Sports Shoes,1519,258,257,997,194,190
+Kurtas,1447,141,256,220,37,43
+Handbags,1255,178,324,373,78,57
+Tops,1130,269,268,455,84,88
+Heels,927,78,315,179,29,30
+Sunglasses,693,203,162,221,53,52
+Sandals,669,103,124,261,54,53
+Wallets,668,140,127,204,42,40
+Flip Flops,634,185,97,311,61,48
+Belts,609,105,98,211,39,45
+Backpacks,581,70,73,232,42,40
+Briefs,579,153,115,201,48,32
+Socks,500,55,129,138,18,33
+Formal Shoes,462,68,106,115,28,37
+Jeans,460,70,57,152,28,23
+Perfume and Body Mist,440,84,86,362,75,72
+Trousers,413,83,32,123,20,18
+Flats,399,59,42,118,21,19
+Bra,365,51,61,146,21,33
+Dresses,331,63,45,121,30,27
+Shorts,325,76,99,201,33,45
+Earrings,305,48,62,24,5,4
+Sarees,293,64,69,50,10,14
+Nail Polish,235,51,43,235,51,43
+Lipstick,234,41,40,234,41,40
+Deodorant,226,66,55,192,54,45
+Caps,198,50,34,103,24,26
+Jackets,197,32,26,113,21,19
+Sweatshirts,197,38,48,97,21,26
+Kurtis,193,23,18,61,11,7
+Track Pants,192,64,48,107,26,29
+Clutches,187,39,64,88,18,14
+Innerwear Vests,171,27,44,64,14,15
+Sweaters,170,50,57,79,20,26
+Tunics,151,33,45,74,12,15
+Ties,151,10,102,24,3,8
+Night suits,127,7,7,23,4,5
+Leggings,119,11,37,29,6,11
+Lip Gloss,112,14,18,112,14,18
+Capris,98,35,17,62,19,12
+Skirts,88,10,16,57,9,12
+Necklace and Chains,86,26,48,51,18,12
+Kurta Sets,76,14,4,29,2,1
+Scarves,76,9,34,24,4,4
+Trunk,76,49,15,24,6,7
+Kajal and Eyeliner,68,16,17,68,16,15
+Free Gifts,58,13,19,29,8,6
+Duffel Bag,57,28,3,30,10,3
+Foundation and Primer,53,10,12,51,9,11
+Laptop Bag,53,10,19,35,7,7
+Sports Sandals,48,6,13,40,6,11
+Mobile Pouch,42,2,3,27,2,3
+Lounge Pants,41,5,15,21,4,7
+Highlighter and Blush,39,5,8,36,5,8
+Fragrance Gift Set,38,8,11,37,8,11
+Face Moisturisers,38,10,13,37,10,13
+Compact,32,10,7,32,10,7
+Eyeshadow,31,5,6,30,5,6
+Lip Liner,31,12,5,31,11,5
+Messenger Bag,22,14,8,20,9,4

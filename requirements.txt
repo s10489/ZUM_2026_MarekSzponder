@@ -1,8 +1,7 @@
-# Podstawowe biblioteki projektu.
-# Dopisz biblioteki, których używasz, i podaj ich dokładne wersje.
-# Wersje w swoim środowisku sprawdzisz poleceniem: pip freeze
-numpy
-pandas
-matplotlib
-scikit-learn
-jupyter
+# Biblioteki użyte w Zadaniu 1 (Google Colab, Python 3.13.18)
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+Pillow==11.3.0
+scipy==1.16.3
+kagglehub==1.0.3
